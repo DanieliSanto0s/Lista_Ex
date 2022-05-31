@@ -1,0 +1,15 @@
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\bin\Debug\net6.0\Ams_Ex9.exe
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\bin\Debug\net6.0\Ams_Ex9.deps.json
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\bin\Debug\net6.0\Ams_Ex9.runtimeconfig.json
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\bin\Debug\net6.0\Ams_Ex9.dll
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\bin\Debug\net6.0\ref\Ams_Ex9.dll
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\bin\Debug\net6.0\Ams_Ex9.pdb
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.csproj.AssemblyReference.cache
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.AssemblyInfoInputs.cache
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.AssemblyInfo.cs
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.csproj.CoreCompileInputs.cache
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.dll
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\ref\Ams_Ex9.dll
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.pdb
+D:\Programmer's\LIsta de Exercicios\Ams_Ex9\obj\Debug\net6.0\Ams_Ex9.genruntimeconfig.cache

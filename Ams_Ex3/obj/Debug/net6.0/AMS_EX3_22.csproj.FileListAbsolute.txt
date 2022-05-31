@@ -1,0 +1,15 @@
+E:\2A\AMS22\AMS_EX3_22\bin\Debug\net6.0\AMS_EX3_22.exe
+E:\2A\AMS22\AMS_EX3_22\bin\Debug\net6.0\AMS_EX3_22.deps.json
+E:\2A\AMS22\AMS_EX3_22\bin\Debug\net6.0\AMS_EX3_22.runtimeconfig.json
+E:\2A\AMS22\AMS_EX3_22\bin\Debug\net6.0\AMS_EX3_22.dll
+E:\2A\AMS22\AMS_EX3_22\bin\Debug\net6.0\ref\AMS_EX3_22.dll
+E:\2A\AMS22\AMS_EX3_22\bin\Debug\net6.0\AMS_EX3_22.pdb
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.csproj.AssemblyReference.cache
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.GeneratedMSBuildEditorConfig.editorconfig
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.AssemblyInfoInputs.cache
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.AssemblyInfo.cs
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.csproj.CoreCompileInputs.cache
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.dll
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\ref\AMS_EX3_22.dll
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.pdb
+E:\2A\AMS22\AMS_EX3_22\obj\Debug\net6.0\AMS_EX3_22.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\bin\Debug\net6.0\AMS_EX5.exe
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\bin\Debug\net6.0\AMS_EX5.deps.json
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\bin\Debug\net6.0\AMS_EX5.runtimeconfig.json
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\bin\Debug\net6.0\AMS_EX5.dll
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\bin\Debug\net6.0\AMS_EX5.pdb
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.csproj.AssemblyReference.cache
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.AssemblyInfoInputs.cache
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.AssemblyInfo.cs
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.csproj.CoreCompileInputs.cache
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.dll
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\refint\AMS_EX5.dll
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.pdb
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\AMS_EX5.genruntimeconfig.cache
+C:\ProjetosAMS\ams\2ano\PrjDesafiados\AMS_EX5\obj\Debug\net6.0\ref\AMS_EX5.dll
